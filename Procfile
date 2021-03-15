@@ -1,0 +1,1 @@
+worker: python serv_udp.py
